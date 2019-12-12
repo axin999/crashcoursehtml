@@ -1,0 +1,52 @@
+body {
+  background: rgb(100, 34, 210);
+  color: red;
+  font-family: monospace;
+}
+#heading {
+  color: green;
+  background-color: black;
+}
+#subheading {
+  background-color: gray;
+  color: red;
+}
+h2 {
+  color: cadetblue;
+}
+.green {
+  color: green;
+  background-color: grey;
+}
+#title {
+  font-size: 40px;
+}
+.lowercase {
+  text-transform: uppercase;
+}
+#first {
+  color: rgba(6, 68, 25, 0.596);
+  background-color: rgb(0, 0, 0);
+}
+#second {
+  color: #fff;
+  background: #00ff00;
+}
+#three {
+  color: #0000ff;
+  background: #f15025;
+}
+#four {
+  color: #f234ad;
+  background: #222;
+}
+.navbar {
+  background: blue;
+  height: 100px;
+  color: white;
+  font-size: 3rem;
+}
+.banner {
+  background: red;
+  min-height: calc(100vh - 100px);
+}

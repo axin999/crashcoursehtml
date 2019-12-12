@@ -1,0 +1,28 @@
+html {
+  font-size: 32px;
+}
+h1 {
+  font-size: 60px;
+  width: 200px;
+  height: 200px;
+  background: blue;
+}
+.outer {
+  width: 200px;
+  height: 200px;
+  background: blue;
+}
+.inner {
+  width: 50%;
+  height: 50%;
+  background: red;
+}
+.relative {
+  font-size: 2rem;
+}
+.absolute {
+  font-size: 32px;
+}
+div {
+  font-size: 20px;
+}

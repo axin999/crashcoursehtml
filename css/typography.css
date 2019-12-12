@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css?family=Calistoga|Roboto:400,700i&display=swap");
+a {
+  font-size: 40px;
+  text-decoration: none;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  font-style: italic;
+  font-size: 16px;
+}
+.main {
+  font-family: "Calistoga", cursive;
+  text-align: center;
+  text-transform: capitalize;
+  text-decoration: line-through;
+}
+.subheading {
+  font-style: normal;
+}
+.one {
+  font-weight: bold;
+  font-style: italic;
+  text-indent: 50px;
+}
+.two {
+  font-weight: lighter;
+  font-style: oblique;
+  text-align: left;
+  line-height: 0.5em;
+}
+.three {
+  letter-spacing: 5px;
+  text-decoration: overline;
+  line-height: 2rem;
+}
+.four {
+  word-spacing: 20px;
+  text-decoration: underline;
+}
